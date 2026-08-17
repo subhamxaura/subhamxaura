@@ -1,10 +1,18 @@
 <div align="center">
 
-# 👋 Hey, I'm Subham
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=SUBHAM&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-### B.Tech CSE Student | Developer | Problem Solver
+<h2>👋 Hey, I'm Subham</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;C%2B%2B+%7C+Python+%7C+C;Learning+Data+Structures+%26+Algorithms;Building+Projects+%26+Improving+Every+Day" alt="Typing SVG" />
+<h3>B.Tech CSE Student • Developer • Problem Solver</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=C%2B%2B+%7C+Python+%7C+C;Learning+Data+Structures+%26+Algorithms;Building+Projects;Always+Learning+%26+Improving" alt="Typing SVG"/>
+
+<br/>
+
+<a href="https://github.com/subhamxaura">
+<img src="https://komarev.com/ghpvc/?username=subhamxaura&label=Profile%20Views&color=0072FF&style=flat" />
+</a>
 
 </div>
 
