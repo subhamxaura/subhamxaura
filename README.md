@@ -47,12 +47,13 @@
 
 ## 🚀 What I'm Currently Doing
 
-```text
 📚 Learning DSA
 💻 Practicing C++
 🐍 Building Python projects
 🧩 Solving programming problems
 🚀 Building projects for my portfolio
+
+--- 
 
 ---
 
@@ -67,3 +68,4 @@
 </picture>
 
 </div>
+
