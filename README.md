@@ -40,7 +40,7 @@
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
