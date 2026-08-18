@@ -88,11 +88,25 @@
 <div align="center">
 
 <a href="https://github.com/subhamxaura/CityRoute-Navigator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=subhamxaura&repo=CityRoute-Navigator&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/🗺️%20CityRoute%20Navigator-Data%20Structures%20%7C%20C-00C6FF?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/subhamxaura/redesign-ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=subhamxaura&repo=redesign-ai&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/🤖%20Redesign%20AI-TypeScript-7C3AED?style=for-the-badge" />
 </a>
 
 </div>
+
+### 🗺️ CityRoute Navigator
+
+**Smart Urban Route & Delivery Management System**
+
+A C-based data structures project implementing concepts such as **Graphs, Shortest Paths, MST, Trees, Hashing, Stack and Queue**.
+
+[🔗 View Project](https://github.com/subhamxaura/CityRoute-Navigator)
+
+### 🤖 Redesign AI
+
+An AI-focused project built with **TypeScript**, exploring modern web development and intelligent user experiences.
+
+[🔗 View Project](https://github.com/subhamxaura/redesign-ai)
