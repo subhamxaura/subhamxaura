@@ -110,3 +110,29 @@ A C-based data structures project implementing concepts such as **Graphs, Shorte
 An AI-focused project built with **TypeScript**, exploring modern web development and intelligent user experiences.
 
 [🔗 View Project](https://github.com/subhamxaura/redesign-ai)
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/subhamxaura">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/subham-ghosh-7b82b63a5">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🚀 Building. Learning. Improving.
+
+⭐ Thanks for visiting my profile!
+
+</div>
