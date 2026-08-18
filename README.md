@@ -33,14 +33,14 @@
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>
 
-### Tools & Technologies
+### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
