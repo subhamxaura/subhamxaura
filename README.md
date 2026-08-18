@@ -81,3 +81,18 @@
 
 </div>
 
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/subhamxaura/CityRoute-Navigator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=subhamxaura&repo=CityRoute-Navigator&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/subhamxaura/redesign-ai">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=subhamxaura&repo=redesign-ai&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
