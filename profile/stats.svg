@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">SUBHAM GHOSH&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 18, Total Commits  (last year) : 242, Total PRs: 12, Total Issues: 6, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 18, Total Commits  (last year) : 248, Total PRs: 14, Total Issues: 6, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 193.93422493099865;
+        stroke-dashoffset: 192.12611614050866;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >242</text>
+      >248</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >12</text>
+      >14</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
